@@ -91,7 +91,7 @@ When the program starts, previously saved members are loaded into the system. Wh
 
 This allows registration data to remain available even after the program is closed.
 
-## 🎯 What I Learned
+## What I Learned
 
 This project helped me strengthen my understanding of Java by requiring me to apply concepts together rather than learning them individually.
 
@@ -109,7 +109,7 @@ Through the development process, I practiced:
 
 Features such as file I/O and persistent data storage were added as I independently learned new concepts outside of the original assignment.
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Potential future versions of the project could include:
 
